@@ -1,2 +1,2 @@
 # BL_Studio3D
-ALIK
+ALIK (Alindado,Juarez,Luna,Barrientos)
